@@ -1,0 +1,16 @@
+# Core data handling
+pandas
+numpy
+
+# Task 1 - association rules
+mlxtend             # apriori / fpgrowth, association_rules
+
+# Task 2 (collaborative filtering) + Task 4 (decision tree)
+scikit-learn
+
+# Task 5 - the API
+fastapi
+uvicorn[standard]   # ASGI server used to run the API
+
+# Tip: once your code runs, freeze exact versions for reproducibility:
+#   pip freeze > requirements.txt
