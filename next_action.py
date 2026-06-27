@@ -1,4 +1,4 @@
-"""Task 4 - Next Best Action engine (the orchestrator).
+"""Task 4 - Next Best Action engine.
 
 For a customer, generate candidate actions (cross-sell a product, send the
 segment offer, or do nothing), score each by expected value

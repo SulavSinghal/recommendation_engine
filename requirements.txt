@@ -11,6 +11,3 @@ scikit-learn
 # Task 5 - the API
 fastapi
 uvicorn[standard]   # ASGI server used to run the API
-
-# Tip: once your code runs, freeze exact versions for reproducibility:
-#   pip freeze > requirements.txt
